@@ -7,7 +7,7 @@ from tkinter.messagebox import *
 main = Tk()
 main.geometry('525x190')
 main.resizable(False, False)
-main.title('Variancia')
+main.title('Varianza')
 main.configure(background='PeachPuff')
 
 
